@@ -12,6 +12,7 @@ from time import sleep
 #comment : add by fred21 2019-6-24
 #comment : add by hwfred21 2019-6-24
 #comment : add by hwfred21 2019-7-25
+#comment : add by hwfred21 2019-7-25_1
 def onsignal_term(a,b):    
 	print 'get SIGTERM'    
      
