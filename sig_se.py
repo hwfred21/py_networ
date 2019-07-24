@@ -4,6 +4,7 @@ import signal
 #comment : add by fred21 2019-5-23
 #add comment by fred21
 # fred21 edit it now
+# fred21 edit it now1
 
 os.kill(13476,signal.SIGTERM)    
 
